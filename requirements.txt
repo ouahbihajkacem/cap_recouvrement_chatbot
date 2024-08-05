@@ -1,0 +1,10 @@
+pandas
+langchain
+streamlit
+transformers
+faiss-cpu
+tensorflow
+openpyxl
+tf-keras
+fastapi
+uvicorn
