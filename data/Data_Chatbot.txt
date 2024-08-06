@@ -1,4 +1,4 @@
-﻿Je ne comprends pas votre demande ?::Vous êtes redevable de la somme de ,,,,, £ pour ,,,,,
+Je ne comprends pas votre demande ?::Vous êtes redevable de la somme de ,,,,, £ pour ,,,,,
 A qui dois-je de l'argent ?::Vous êtes redevable de la somme de ,,,,, £ pour ,,,,,
 A quoi correspondent les sommes réclamées ? ::Vous êtes redevable de la somme de ,,,,, £ pour ,,,,,
 Pourriez vous m'envoyer la facture s'il vous plait ?::Veuillez nous adresser un mail de demande auprès de votre gestionnaire en entreprise ou en appelant le (+33)0362260142 ou bien (+33)0362260143.
@@ -20,7 +20,7 @@ Comment mettre en place un échéancier ?::Merci de nous contacter au téléphon
 Puis-je payer en plusieurs fois ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier en entreprise ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant.
 C'est possible de payer en plusieurs tranches ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier en entreprise ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant.
 Comment puis-je payer s'il vous plait ?::Merci de nous contacter au téléphone de votre gestionnaire en entreprise CAP Recouvrement ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant. 
-Puis-je reculer l'échéance de ce mois ?::Merci de nous contacter pour vous expliquer sur votre problème financier auprès de votre gestionnaire de dossier à son téléphone ou en appelant le (+33)0362260142 ou bien (+33)0362260143.
+Puis-je reculer l'échéance de ce mois ?::Nous comprenons que des circonstances imprévues peuvent survenir donc merci de nous contacter pour vous expliquer sur votre problème financier auprès de votre gestionnaire de dossier à son téléphone ou en appelant le (+33)0362260142.
 Je ne parviens pas à payer sur internet. Comment puis-je faire ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier pour plus d'informations.
 Le paiement en ligne ne marche pas !::Merci de nous contacter au téléphone de votre gestionnaire de dossier pour plus d'informations.
 Ou dois-je payer et comment ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier pour plus d'informations.
@@ -101,16 +101,17 @@ Bonne soirée::Bonne soirée ! N'hésitez pas à revenir si vous avez d'autres q
 Good night::Good night! Feel free to come back if you have more questions.
 Merci::De rien ! Comment puis-je vous aider d'autre ?
 Thanks::You're welcome! How can I assist you further?
-C'est quoi CAP Recouvrement ?::CAP Recouvrement est une entreprise spécialisée dans le recouvrement de créances pour divers clients.
+C'est quoi CAP Recouvrement ?::Spécialiste du recouvrement de créances et de la gestion du poste clients, le Groupe CAP Recouvrement est présent sur l'intégralité de la chaîne de valeur du poste Clients des entreprises.
+Vous souhaitez optimiser votre poste Clients et recouvrer vos impayés, nous pouvons vous aider.
 Comment puis-je vous contacter ?::Vous pouvez nous contacter par téléphone au (+33)0362260142 ou par mail à l'adresse contact@caprecouvrement.fr.
 Quels services proposez vous ?::Nous proposons des services de gestion et de recouvrement de créances, ainsi que des conseils en matière de gestion financière.
 Puis-je payer en ligne ?::Oui, vous pouvez effectuer un paiement en ligne en utilisant notre portail sécurisé.
-Avez-vous une adresse e-mail ?::Oui, vous pouvez nous joindre par e-mail à l'adresse contact@caprecouvrement.fr.
-Quel est votre numéro de téléphone ?::Notre numéro de téléphone est (+33)0362260142.
+Avez-vous une adresse e-mail ?::Oui, vous pouvez nous joindre par e-mail à l'adresse contact@caprecouvrement.fr. Un de nos gestionnaires va revenir vers vous dans les plus brefs délais.
+Quel est votre numéro de téléphone ?::Nous possédons deux numéros de téléphone qui sont les suivants: (+33)0362260142 et (+33)0362260143.
 Où êtes-vous situés ?::Nous sommes situés à Marcq-en-Barœul, Lille, France, mais nous offrons nos services à des clients dans toute la France et à l'international.
 Quelles sont vos heures d'ouverture ?::Nous sommes ouverts du lundi au vendredi, de 9h à 18h.
 Offrez vous des plans de paiement ?::Oui, nous pouvons vous aider à mettre en place un plan de paiement adapté à vos besoins.
-Puis-je parler à un gestionnaire ?::Bien sûr, je peux vous mettre en contact avec l'un de nos gestionnaires. Veuillez appelez le numéro de téléphone suivant (+33)0362260142.
+Puis-je parler à un gestionnaire ?::Bien sûr, je peux vous mettre en contact avec l'un de nos gestionnaires. Veuillez appelez un des 2 numéro de téléphone suivants (+33)0362260142 ou bien (+33)0362260143.
 Comment fonctionne le recouvrement de créances ?::Le recouvrement de créances implique des actions pour récupérer les paiements en retard auprès des débiteurs, souvent par le biais de communications et de négociations.
 Quels documents dois-je fournir pour le recouvrement ?::Vous devez fournir toutes les factures impayées, les contrats signés et toute correspondance pertinente avec le débiteur.
 Avez-vous des avis clients ?::Oui, vous pouvez consulter les avis de nos clients sur notre site web.
@@ -123,3 +124,94 @@ Puis-je mettre en place un plan de paiement ?::Oui, nous pouvons vous aider à m
 Quels sont vos horaires d'ouverture ?::Nos horaires d'ouverture sont du lundi au vendredi, de 9h à 18h.
 Comment puis-je payer ma dette ?::Vous pouvez payer votre dette en ligne via notre portail sécurisé, par virement bancaire, ou par carte de crédit. Pour toute question spécifique, veuillez contacter votre gestionnaire de compte.
 Où êtes-vous situés ?::Nous sommes situés à Marcq-en-Barœul, Lille, France, mais nous offrons nos services à des clients dans toute la France et à l'international.
+Comment payer ma dette?::Vous pouvez payer votre dette en ligne via notre portail sécurisé, par virement bancaire, ou par carte de crédit. Pour toute question spécifique, veuillez contacter votre gestionnaire de compte.
+Je peux payer en ligne ?::Oui, vous pouvez effectuer un paiement en ligne en utilisant notre portail sécurisé.
+C'est capté::D'accord très bien, Comment puis-je vous aider d'autre ?
+C'est noté::D'accord très bien, Comment puis-je vous aider d'autre ?
+J'ai compris::Très bien, Comment puis-je vous aider d'autre ?
+Rien::Ok, je suis là si vous avez besoin de quoi que ce soit d'autre.
+Nothing::Ok, I'm here if you need anything else.
+Ça va ?::Ça va bien, merci ! Et vous ?
+Comment ça va ?::Je vais bien, merci ! Comment puis-je vous aider ?
+Comment puis-je vous aider ?::Vous pouvez me poser n'importe quelle question ou demander de l'aide avec quelque chose de spécifique.
+Quoi de neuf ?::Pas grand-chose, juste prêt à vous aider. Et vous ?
+Quelle heure est-il ?::Je suis désolé, je ne peux pas vérifier l'heure actuelle. Pouvez-vous vérifier sur votre appareil ?
+How are you?::I'm good, thank you! How can I assist you?
+How's it going?::It's going well, thank you! How can I help you today?
+What's up?::Not much, just ready to help you. How about you?
+What time is it?::I'm sorry, I can't check the current time. Can you check on your device?
+How can I help you?::You can ask me any question or request help with something specific.
+Bienvenue::Merci ! Comment puis-je vous aider aujourd'hui ?
+À plus tard::À plus tard ! Prenez soin de vous.
+À demain::À demain ! Passez une bonne journée!
+À bientôt::À bientôt ! N'hésitez pas à revenir si vous avez d'autres questions.
+Enchanté::Enchanté également ! Comment puis-je vous aider ?
+D'accord::Très bien, Comment puis-je vous aider davantage ?
+Super::Super ! Comment puis-je vous aider davantage ?
+Parfait::Parfait ! Y a-t-il autre chose avec laquelle je peux vous aider ?
+Excusez-moi::Oui, comment puis-je vous aider ?
+Désolé::Ce n'est pas grave. Comment puis-je vous aider ?
+Attendez::D'accord, je suis là quand vous êtes prêt.
+Welcome::Thank you! How can I assist you today?
+See you later::See you later! Take care.
+See you tomorrow::See you tomorrow! Have a great day.
+See you soon::See you soon! Feel free to come back if you have more questions.
+Nice to meet you::Nice to meet you too! How can I assist you?
+Alright::Alright, what can I do for you?
+Great::Great! How can I help you further?
+Perfect::Perfect! Is there anything else I can assist you with?
+Excuse me::Yes, how can I help you?
+Sorry::It's okay. How can I assist you?
+Hold on::Alright, I'm here when you're ready.
+Aide::Bien sûr, que puis-je faire pour vous ?
+Information::Quelle information recherchez-vous ?
+Où suis-je ?::Vous êtes ici pour obtenir de l'aide. Comment puis-je vous assister ?
+Pourquoi ?::Pouvez-vous préciser votre question, s'il vous plaît ?
+Comment ?::Pouvez-vous me donner plus de détails, s'il vous plaît ?
+Pardon::Ce n'est pas grave. Comment puis-je vous aider ?
+Besoin d'aide::D'accord, dites-moi en quoi je peux vous aider.
+Je ne sais pas::Pas de problème, je suis ici pour vous aider à trouver des réponses.
+Help::Sure, what can I do for you?
+Information::What information are you looking for?
+Where am I?::You are here to get help. How can I assist you?
+Why?::Can you please clarify your question?
+How?::Can you provide me with more details, please?
+Excuse me::It's okay. How can I assist you?
+How are you doing?::I'm doing well, thank you! And you?
+Need help::Alright, tell me how I can assist you.
+I don't know::No problem, I'm here to help you find the answers.
+Félicitations::Félicitations ! Comment puis-je vous aider à célébrer cela ?
+Bonne chance::Bonne chance ! Si vous avez besoin d'aide, je suis là.
+Joyeux anniversaire::Joyeux anniversaire ! Comment puis-je rendre votre journée encore plus spéciale ?
+Bon travail::Bon travail ! Avez-vous besoin d'aide pour autre chose ?
+Aidez-moi::Je suis là pour vous aider. Que puis-je faire pour vous ?
+Peut-on discuter ?::Bien sûr, de quoi voulez-vous discuter ?
+J'ai une question::Je suis là pour répondre à vos questions. Quelle est votre question ?
+C'est urgent::Je vais faire de mon mieux pour vous aider rapidement. Quel est le problème ?
+Bravo::Bravo ! Comment puis-je vous aider encore ?
+Congratulations::Congratulations! How can I help you celebrate?
+Good luck::Good luck! If you need any assistance, I'm here.
+Happy birthday::Happy birthday! How can I make your day even more special?
+Good job::Good job! Do you need help with anything else?
+Help me::I'm here to help you. What can I do for you?
+Can we chat?::Sure, what would you like to chat about?
+Can we talk?::Sure, what would you like to talk about?
+I have a question::I'm here to answer your questions. What's your question?
+It's urgent::I'll do my best to assist you quickly. What's the issue?
+Well done::Well done! How else can I assist you?
+Où puis-je trouver plus d'informations sur mes paiements ?::Vous pouvez trouver plus d'informations sur vos paiements en vous connectant à votre compte en ligne ou en nous appelant directement.
+Quels modes de paiement acceptez-vous ?::Nous acceptons divers modes de paiement, y compris les cartes de crédit, les virements bancaires et les paiements en ligne. Quel mode de paiement préférez-vous ?
+What payment methods do you accept?::We accept various payment methods, including credit cards, bank transfers, and online payments. Which payment method do you prefer?
+Comment puis-je mettre à jour mes informations de contact ?::Vous pouvez mettre à jour vos informations de contact en ligne ou en nous appelant directement.
+Y a-t-il des frais supplémentaires pour les paiements en retard ?::Oui, des frais supplémentaires peuvent s'appliquer pour les paiements en retard.
+Où puis-je trouver vos coordonnées ?::Vous pouvez trouver nos coordonnées sur notre site web ou en bas de chaque correspondance que nous vous envoyons.
+Puis-je payer en plusieurs fois ?::Oui, nous proposons des options de paiement échelonné. 
+J'ai des difficultés financières, que puis-je faire ?::Nous comprenons les difficultés financières. Contactez nous pour discuter des options de paiement adaptées à votre situation.
+Comment puis-je éviter des frais de recouvrement ?::Le meilleur moyen d'éviter des frais de recouvrement est de régler vos dettes à temps ou de nous contacter pour discuter des options de paiement.
+Comment vérifier l'état de ma dette ?::Vous pouvez vérifier l'état de votre dette en vous connectant à votre compte en ligne ou en nous appelant.
+What are the consequences of non-payment?::Non-payment can result in additional fees and collection actions. Let's discuss your options to avoid this.
+Can I pay in installments?::Yes, we offer installment payment options. Let's discuss the terms.
+Can I make a partial payment?::Yes, we accept partial payments. Let's discuss your payment options.
+I'm facing financial difficulties, what can I do?::We understand financial difficulties. Contact us to discuss payment options that suit your situation.
+Est-ce que des intérêts s'appliquent aux paiements en retard ?::Oui, des intérêts peuvent s'appliquer en cas de retard de paiement.
+Comment puis-je éviter les frais de retard ?::Vous pouvez éviter les frais de retard en effectuant vos paiements à temps.
