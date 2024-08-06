@@ -215,3 +215,18 @@ Can I make a partial payment?::Yes, we accept partial payments. Let's discuss yo
 I'm facing financial difficulties, what can I do?::We understand financial difficulties. Contact us to discuss payment options that suit your situation.
 Est-ce que des intérêts s'appliquent aux paiements en retard ?::Oui, des intérêts peuvent s'appliquer en cas de retard de paiement.
 Comment puis-je éviter les frais de retard ?::Vous pouvez éviter les frais de retard en effectuant vos paiements à temps.
+Wish you a good day::Merci ! Vous aussi ! Passez une bonne journée !
+Wish you a great day::Merci ! Vous aussi ! Passez une bonne journée !
+Great day::Merci ! Vous aussi ! Passez une bonne journée !
+Nice day::Merci ! Vous aussi ! Passez une bonne journée !
+Bon weekend::Merci ! Vous aussi ! Passez un bon week-end !
+Bon week-end::Merci ! Vous aussi ! Passez un bon week-end !
+Merci pour votre aide::De rien ! Je suis heureux de pouvoir vous aider.
+Merci beaucoup::De rien ! Comment puis-je vous aider d'autre ?
+Joyeux Noël::Joyeux Noël ! Passez de bonnes fêtes !
+Bonne année::Bonne année ! Tous nos vœux pour cette nouvelle année !
+Merry Christmas::Merry Christmas! Have a great holiday season!
+Happy New Year::Happy New Year! Best wishes for the new year!
+Thank you very much::You're welcome! How else can I assist you?
+Thank you for your help::You're welcome! I'm glad to help.
+Can you help me?::Of course, what can I do for you?
